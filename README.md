@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+My name is JIA HAO ZHANG 
+
+I'm master student from CCU (National Chung Cheng University) IM (Information Management)
 <!--
 **mile-zhang/mile-zhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
