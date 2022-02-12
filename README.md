@@ -14,7 +14,17 @@ I'm master student from CCU (National Chung Cheng University) IM (Information Ma
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=Kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=2bbc8a)
 
+## 📊Github Stats
 ![mile-zhang's GitHub stats](https://github-readme-stats.vercel.app/api?username=mile-zhang&show_icons=true&theme=vue-dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mile-zhang&layout=compact&theme=vue-dark)](https://github.com/mile-zhang/github-readme-stats)
+
+## 📚 Projects 
+- Editing
+### (Modify from orgin author)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mile-zhang&repo=SeaNet-Pytorch-1.10.2&theme=vue)](https://github.com/mile-zhang/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mile-zhang&repo=SeaNet-Pytorch-1.0.0&theme=vue)](https://github.com/mile-zhang/github-readme-stats)
+
+
 <!--
 **mile-zhang/mile-zhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
