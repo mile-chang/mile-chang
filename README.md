@@ -3,6 +3,12 @@
 My name is JIA HAO ZHANG 
 
 I'm master student from CCU (National Chung Cheng University) IM (Information Management)
+
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+
+
+<a href="https://colab.research.google.com/drive/1XgHGr7e6aBbKNLZYbi02d10s4zyNSU-H#scrollTo=yRfRjleTPRsN"> ![](https://img.shields.io/badge/<>-Opne_in_Colab-informational?style=flat&logo=GoogleColab&logoColor=#F9AB00&color=2bbc8a) </a>
+
 <!--
 **mile-zhang/mile-zhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
