@@ -20,7 +20,7 @@ I'm master student from CCU (National Chung Cheng University) IM (Information Ma
 ![mile-zhang's GitHub stats](https://github-readme-stats.vercel.app/api?username=mile-zhang&show_icons=true&theme=vue-dark)
 ## 📚 Projects 
 ### (Modify from orgin author)
-[![SeaNet-Pytorch-1.7.0](https://github-readme-stats.vercel.app/api/pin/?username=mile-zhang&repo=SeaNet-Pytorch-1.7.0&theme=material-palenight)](https://github.com/mile-zhang/SeaNet-Pytorch-1.7.0/)
+[![SeaNet-Pytorch-1.7.0](https://github-readme-stats.vercel.app/api/pin/?username=mile-zhang&repo=SeaNet-Pytorch-1.7.0&theme=material-palenight)](https://github.com/mile-zhang/SeaNet-Pytorch-1.7.0)
 [![SeaNet-Pytorch-1.0.0](https://github-readme-stats.vercel.app/api/pin/?username=mile-zhang&repo=SeaNet-Pytorch-1.0.0&theme=material-palenight)](https://github.com/mile-zhang/SeaNet-Pytorch-1.0.0)
 
 
