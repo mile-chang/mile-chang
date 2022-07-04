@@ -20,10 +20,8 @@ I'm master student from CCU (National Chung Cheng University) IM (Information Ma
 -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mile-zhang&langs_count=8&theme=vue-dark)](https://github.com/mile-zhang) -->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mile-zhang&layout=compact&theme=vue-dark)](https://github.com/mile-zhang/github-readme-stats)
 ![mile-zhang's GitHub stats](https://github-readme-stats.vercel.app/api?username=mile-zhang&show_icons=true&theme=vue-dark)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mile-zhang&layout=compact&theme=vue-dark)](https://github.com/mile-zhang/github-readme-stats)
 
 ## 📚 Projects 
 ### (Modify from orgin author)
