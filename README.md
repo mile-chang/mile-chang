@@ -15,13 +15,19 @@ I'm master student from CCU (National Chung Cheng University) IM (Information Ma
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=2bbc8a)
 
 ## 📊 Github Stats
-<!--
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mile-zhang&layout=compact&theme=vue-dark&hide_border=true" /> <img align="center" src="https://github-readme-stats.vercel.app/api?username=mile-zhang&show_icons=true&include_all_commits=true&theme=vue-dark&hide_border=true" alt="Anurag's github stats" /> 
--->
-
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mile-zhang&langs_count=8&theme=vue-dark)](https://github.com/mile-zhang) -->
+<!-- 
 ![mile-zhang's GitHub stats](https://github-readme-stats.vercel.app/api?username=mile-zhang&show_icons=true&theme=vue-dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mile-zhang&layout=compact&theme=vue-dark)](https://github.com/mile-zhang/github-readme-stats)
+ -->
+<div>
+  <a href="https://github.com/mile-zhang">
+    <img align="left" height="170" alt="My GitHub stats" src="https://github-readme-stats-steel-omega.vercel.app/api?username=mile-zhang&show_icons=true&theme=vue-dark" />
+  </a>
+  <a href="https://github.com/mile-zhang">
+    <img alt="Top languages stats" src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=mile-zhang&layout=compact&icon_color=2d77dc&theme=vue-dark" />
+  </a>
+</div>
 
 ## 📚 Projects 
 ### (Modify from orgin author)
