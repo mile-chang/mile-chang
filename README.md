@@ -15,16 +15,20 @@ I'm master student from CCU (National Chung Cheng University) IM (Information Ma
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=2bbc8a)
 
 ## 📊 Github Stats
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mile-zhang&layout=compact&theme=vue-dark)](https://github.com/mile-zhang/github-readme-stats) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mile-zhang&langs_count=8&theme=vue-dark)](https://github.com/mile-zhang)
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mile-zhang&layout=compact&theme=vue-dark&hide_border=true" /> <img align="center" src="https://github-readme-stats.vercel.app/api?username=mile-zhang&show_icons=true&include_all_commits=true&theme=vue-dark&hide_border=true" alt="Anurag's github stats" /> 
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mile-zhang&langs_count=8&theme=vue-dark)](https://github.com/mile-zhang) -->
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mile-zhang&layout=compact&theme=vue-dark)](https://github.com/mile-zhang/github-readme-stats)
 ![mile-zhang's GitHub stats](https://github-readme-stats.vercel.app/api?username=mile-zhang&show_icons=true&theme=vue-dark)
+-->
+
 ## 📚 Projects 
 ### (Modify from orgin author)
 [![C2-Matching-1.7.0](https://github-readme-stats.vercel.app/api/pin/?username=mile-zhang&repo=C2-Matching-1.7.0&theme=material-palenight)](https://github.com/mile-zhang/C2-Matching-1.7.0)
 [![DeFiAN-Pytorch-1.7.0](https://github-readme-stats.vercel.app/api/pin/?username=mile-zhang&repo=DeFiAN-Pytorch-1.7.0&theme=material-palenight)](https://github.com/mile-zhang/DeFiAN-Pytorch-1.7.0)
 [![SeaNet-Pytorch-1.7.0](https://github-readme-stats.vercel.app/api/pin/?username=mile-zhang&repo=SeaNet-Pytorch-1.7.0&theme=material-palenight)](https://github.com/mile-zhang/SeaNet-Pytorch-1.7.0)
 [![SeaNet-Pytorch-1.0.0](https://github-readme-stats.vercel.app/api/pin/?username=mile-zhang&repo=SeaNet-Pytorch-1.0.0&theme=material-palenight)](https://github.com/mile-zhang/SeaNet-Pytorch-1.0.0)
-
 
 <!--
 **mile-zhang/mile-zhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
