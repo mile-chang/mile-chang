@@ -33,7 +33,6 @@ I'm master student from CCU (National Chung Cheng University) IM (Information Ma
 ### (Modify from orgin author)
 [![C2-Matching-1.7.0](https://github-readme-stats.vercel.app/api/pin/?username=mile-zhang&repo=C2-Matching-1.7.0&theme=material-palenight)](https://github.com/mile-zhang/C2-Matching-1.7.0)
 [![DeFiAN-Pytorch-1.7.0](https://github-readme-stats.vercel.app/api/pin/?username=mile-zhang&repo=DeFiAN-Pytorch-1.7.0&theme=material-palenight)](https://github.com/mile-zhang/DeFiAN-Pytorch-1.7.0)
-[![SeaNet-Pytorch-1.7.0](https://github-readme-stats.vercel.app/api/pin/?username=mile-zhang&repo=SeaNet-Pytorch-1.7.0&theme=material-palenight)](https://github.com/mile-zhang/SeaNet-Pytorch-1.7.0)
 [![SeaNet-Pytorch-1.0.0](https://github-readme-stats.vercel.app/api/pin/?username=mile-zhang&repo=SeaNet-Pytorch-1.0.0&theme=material-palenight)](https://github.com/mile-zhang/SeaNet-Pytorch-1.0.0)
 
 <!--
