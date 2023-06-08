@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
-My name is JIA HAO ZHANG 
+My name is CHIA HAO CHANG 
 
 I'm master student from CCU (National Chung Cheng University) IM (Information Management)
 
