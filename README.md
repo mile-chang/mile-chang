@@ -2,7 +2,9 @@
 
 My name is CHIA HAO CHANG 
 
-I'm master student from CCU (National Chung Cheng University) IM (Information Management)
+Graduated in 2023 from the Institute of Information Management at National Chung Cheng University (CCU).
+Research focused on reference resolution in Super-Resolution (SR).
+Currently studying at a language school in Tokyo.
 
 ## 🛠️ Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
