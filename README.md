@@ -32,6 +32,7 @@ Research focused on reference resolution in Super-Resolution (SR).
 </div>
 
 ## 📚 Projects 
+[![NeetCodeTracker](https://github-readme-stats.vercel.app/api/pin/?username=mile-chang&repo=leetcode&theme=material-palenight)](https://github.com/mile-chang/NeetCodeTracker)
 [![LeetCode_Practice](https://github-readme-stats.vercel.app/api/pin/?username=mile-chang&repo=leetcode&theme=material-palenight)](https://github.com/mile-chang/leetcode)
 [![Qrcode_Cursor](https://github-readme-stats.vercel.app/api/pin/?username=mile-chang&repo=Qrcode_Cursor&theme=material-palenight)](https://github.com/mile-chang/Qrcode_Cursor)
 ### (Modify from orgin author)
