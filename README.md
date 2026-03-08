@@ -6,7 +6,7 @@ Graduated in 2025 from Tokyo Galaxy Japanese Language School.
 Graduated in 2023 from the Institute of Information Management at National Chung Cheng University (CCU).
 Research focused on reference resolution in Super-Resolution (SR).
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
@@ -16,7 +16,7 @@ Research focused on reference resolution in Super-Resolution (SR).
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=Kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-VMware-informational?style=flat&logo=VMware&logoColor=white&color=2bbc8a)
 
-## 📊 Github Stats
+## Github Stats
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mile-chang&langs_count=8&theme=vue-dark)](https://github.com/mile-chang) -->
 <!-- 
 ![mile-chang's GitHub stats](https://github-readme-stats.vercel.app/api?username=mile-chang&show_icons=true&theme=vue-dark)
@@ -31,7 +31,7 @@ Research focused on reference resolution in Super-Resolution (SR).
   </a>
 </div>
 
-## 📚 Projects 
+## Projects 
 [![LogHive](https://github-readme-stats-eta-rosy-40.vercel.app/api/pin/?username=mile-chang&repo=logHive&theme=material-palenight)](https://github.com/mile-chang/logHive)
 [![Qrcode_Cursor](https://github-readme-stats-eta-rosy-40.vercel.app/api/pin/?username=mile-chang&repo=Qrcode_Cursor&theme=material-palenight)](https://github.com/mile-chang/Qrcode_Cursor)
 [![NeetCodeTracker](https://github-readme-stats-eta-rosy-40.vercel.app/api/pin/?username=mile-chang&repo=NeetCodeTracker&theme=material-palenight)](https://github.com/mile-chang/NeetCodeTracker)
