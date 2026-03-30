@@ -32,6 +32,7 @@ Research focused on reference resolution in Super-Resolution (SR).
 </div>
 
 ## Projects 
+[![Rag-Kura](https://github-readme-stats-eta-rosy-40.vercel.app/api/pin/?username=mile-chang&repo=rag-kura&theme=material-palenight)](https://github.com/mile-chang/rag-kura)
 [![LogHive](https://github-readme-stats-eta-rosy-40.vercel.app/api/pin/?username=mile-chang&repo=logHive&theme=material-palenight)](https://github.com/mile-chang/logHive)
 [![Qrcode_Cursor](https://github-readme-stats-eta-rosy-40.vercel.app/api/pin/?username=mile-chang&repo=Qrcode_Cursor&theme=material-palenight)](https://github.com/mile-chang/Qrcode_Cursor)
 [![NeetCodeTracker](https://github-readme-stats-eta-rosy-40.vercel.app/api/pin/?username=mile-chang&repo=NeetCodeTracker&theme=material-palenight)](https://github.com/mile-chang/NeetCodeTracker)
