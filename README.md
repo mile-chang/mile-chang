@@ -35,10 +35,6 @@ Research focused on reference resolution in Super-Resolution (SR).
 [![Rag-Kura](https://github-readme-stats-eta-rosy-40.vercel.app/api/pin/?username=mile-chang&repo=rag-kura&theme=material-palenight)](https://github.com/mile-chang/rag-kura)
 [![LogHive](https://github-readme-stats-eta-rosy-40.vercel.app/api/pin/?username=mile-chang&repo=logHive&theme=material-palenight)](https://github.com/mile-chang/logHive)
 [![Qrcode_Cursor](https://github-readme-stats-eta-rosy-40.vercel.app/api/pin/?username=mile-chang&repo=Qrcode_Cursor&theme=material-palenight)](https://github.com/mile-chang/Qrcode_Cursor)
-### (Modify from orgin author)
-[![C2-Matching-1.7.0](https://github-readme-stats-eta-rosy-40.vercel.app/api/pin/?username=mile-chang&repo=C2-Matching-1.7.0&theme=material-palenight)](https://github.com/mile-chang/C2-Matching-1.7.0)
-[![DeFiAN-Pytorch-1.7.0](https://github-readme-stats-eta-rosy-40.vercel.app/api/pin/?username=mile-chang&repo=DeFiAN-Pytorch-1.7.0&theme=material-palenight)](https://github.com/mile-chang/DeFiAN-Pytorch-1.7.0)
-[![SeaNet-Pytorch-1.0.0](https://github-readme-stats-eta-rosy-40.vercel.app/api/pin/?username=mile-chang&repo=SeaNet-Pytorch-1.0.0&theme=material-palenight)](https://github.com/mile-chang/SeaNet-Pytorch-1.0.0)
 
 <!--
 **mile-chang/mile-chang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
